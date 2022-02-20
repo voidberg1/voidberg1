@@ -1,7 +1,6 @@
 ```mermaid
-  graph TD;
-      ASD-->B;
-      ASD-->C;
-      B-->D;
-      C-->D;
+pie
+"Dogs" : 386
+"Cats" : 85
+"Rats" : 15
 ```
